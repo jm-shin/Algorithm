@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class q2558 {
 	public static void main(String[] args) {
 		int num1 = 0;
 		int num2 = 0;
