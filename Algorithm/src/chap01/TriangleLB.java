@@ -2,7 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 
-public class SumWhile{
+public class TriangleLB{
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         int n;
@@ -15,8 +15,8 @@ public class SumWhile{
         for(int i = 1; i <= n; i++){
             for(int j = 1; j <= i; j++){
                 System.out.print('*');
-                
-            }System.out.println();
+            } 
+            System.out.println();
         }
     }
 }
